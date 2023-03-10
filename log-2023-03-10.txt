@@ -1,0 +1,53 @@
+[01-01 18:13:19 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:13:19 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:13:19 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:13:19 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:13:19 TUYA Debug][lr:0x5aeab] usBrightTmep 545
+[01-01 18:13:19 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:13:19 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:13:19 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:13:19 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:13:19 TUYA Debug][lr:0x5aeab] usBrightTmep 545
+[01-01 18:13:19 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:13:19 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:13:19 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:13:19 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:13:19 TUYA Debug][lr:0x5aeab] usBrightTmep 545
+[01-01 18:13:20 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:13:20 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:13:20 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:13:20 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:13:20 TUYA Debug][lr:0x5aeab] usBrightTmep 545
+[01-01 18:13:20 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:13:20 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:13:20 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:13:20 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:13:20 TUYA Debug][lr:0x5aeab] usBrightTmep 545
+[01-01 18:13:20 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:13:20 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:13:20 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:12:38 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:12:38 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:12:38 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:12:38 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:12:38 TUYA Debug][lr:0x5aeab] usBrightTmep 545
+[01-01 18:12:38 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:12:38 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:12:38 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:12:38 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:12:38 TUYA Debug][lr:0x5aeab] usBrightTmep 545
+[01-01 18:14:18 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:14:18 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:14:18 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:14:18 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:14:18 TUYA Debug][lr:0x5aeab] usBrightTmep 545
+[01-01 18:14:18 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:14:18 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:14:18 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:14:18 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:14:18 TUYA Debug][lr:0x5aeab] usBrightTmep 545
+[01-01 18:14:18 TUYA Debug][lr:0x5af65] stop scene time!!!!!
+[01-01 18:14:18 TUYA Debug][lr:0x5adc9] Bright 500
+[01-01 18:14:18 TUYA Debug][lr:0x5ade7] cw limit proc
+[01-01 18:14:18 TUYA Debug][lr:0x5ae71] usBrightTmep 545
+[01-01 18:14:18 TUYA Debug][lr:0x5aeab] usBrightTmep 545
