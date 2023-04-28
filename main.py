@@ -6,11 +6,12 @@ import time
 from datetime import datetime
 import sys
 import json
+import signal
 
 # 连接的串口名
-SERIAL_PORT = 'COM17'
+serial_port = 'COM17'
 # 波特率
-SERIAL_BAUDRATE = 115200
+serial_baudrate = 115200
 # 断开连接后的重连间隔(s)，太短电脑可能会蓝屏，注意！
 interval_time = 1
 
@@ -36,7 +37,7 @@ def get_current_date_string(format="%Y-%m-%d"):
 
 while True:
     try:
-        ser = pyserial.Serial(SERIAL_PORT, SERIAL_BAUDRATE)
+        ser = pyserial.Serial(serial_port, serial_baudrate)
         if ser.isOpen():
             print("串口已连接")
             break
